@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Keebio")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Schematics/Keebio-Components/keebio.lib")(options "")(descr ""))
+  (lib (name "rkp")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Schematics/random-keyboard-parts/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Lily58")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Schematics/Lily58-Rescue/Lily58_Pro-rescue.lib")(options "")(descr ""))
+)
