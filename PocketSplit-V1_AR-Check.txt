@@ -1,0 +1,47 @@
+AR checking written on:
+'C:\Users\Steve\Documents\GitHub\PocketSplit-v1\PocketSplit-V1_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.125
+PHD margin on PTH = 0
+
+AR Via violation of 0.1 at XY 97.027999,50.2893
+AR Via violation of 0.1 at XY 97.025319,52.826889
+AR Via violation of 0.1 at XY 97.028,60.452
+AR Via violation of 0.1 at XY 89.154,60.452
+AR Via violation of 0.1 at XY 88.376217,59.107745
+AR Via violation of 0.1 at XY 97.028,57.912
+AR Via violation of 0.1 at XY 87.63,57.912
+AR Via violation of 0.1 at XY 86.8515,56.567745
+AR Via violation of 0.1 at XY 97.028,55.372
+AR Via violation of 0.1 at XY 86.106,55.372
+AR Via violation of 0.1 at XY 84.328,76.454
+AR Via violation of 0.1 at XY 97.028,68.072
+AR Via violation of 0.1 at XY 93.472,68.072
+AR Via violation of 0.1 at XY 36.83,76.962
+AR Via violation of 0.1 at XY 93.472,75.184
+AR Via violation of 0.1 at XY 94.234,69.267745
+AR Via violation of 0.1 at XY 50.546,80.01
+AR Via violation of 0.1 at XY 84.836,77.216
+AR Via violation of 0.1 at XY 94.234,75.184
+AR Via violation of 0.1 at XY 94.996,70.612
+AR Via violation of 0.1 at XY 61.722,80.264
+AR Via violation of 0.1 at XY 85.344,77.978
+AR Via violation of 0.1 at XY 97.019148,70.603148
+AR Via violation of 0.1 at XY 94.996,75.174008
+AR Via violation of 0.1 at XY 95.758,71.807745
+AR Via violation of 0.1 at XY 95.758,75.184
+AR Via violation of 0.1 at XY 69.088,80.772
+AR Via violation of 0.1 at XY 85.842922,78.74
+AR Via violation of 0.1 at XY 86.36,79.502
+AR Via violation of 0.1 at XY 82.042,81.534
+AR Via violation of 0.1 at XY 97.028,73.152
+AR Via violation of 0.1 at XY 96.52,75.184
+AR Via violation of 0.1 at XY 97.025319,65.526889
+AR Via violation of 0.1 at XY 97.027999,62.9893
+AR Via violation of 0.1 at XY 97.155,45.212
+AR Via violation of 0.1 at XY 97.028,47.752
+VIAS that Pass = 0; Fails = 36
+TH PADS that Pass = 232; Fails = 0
+NPTH PADS that Pass = 0; Fails = 0
